@@ -8,7 +8,7 @@
 - **Programming Languages:** Python, JavaScript, C++, Go, TypeScript, SQL, PHP
 - **Web Development:** HTML, CSS, React, Node.js , Vue3 ,Nuxt3
 - **Data Science:** Pandas, NumPy, Scikit-learn
-- **DataBase:** MySQL, PostgresSQL, MongoDB, ScyllaDB
+- **DataBase:** MySQL, PostgresSQL, MongoDB, ScyllaDB, Redis
 - **Tools & Platforms:** Git, Docker, AWS, Postman , GitHub Actions
 
 ## Projects
