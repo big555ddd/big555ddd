@@ -2,13 +2,13 @@
 
 ## About Me
 
-👋 Hi there! I'm `big555ddd`, a passionate developer who loves to explore new technologies and contribute to open-source projects. My interests span across various domains including web development, data science
+👋 Hi there! I'm `Wutthichai Piyarungroj`, a passionate developer who loves to explore new technologies and contribute to open-source projects. My interests span across various domains including web development, data science
 ## My Skills
 
 - **Programming Languages:** Python, JavaScript, C++, Go, TypeScript, SQL, PHP
 - **Web Development:** HTML, CSS, React, Node.js , Vue3 ,Nuxt3
 - **Data Science:** Pandas, NumPy, Scikit-learn
-- **Tools & Platforms:** Git, Docker, AWS,Postman , GitHub Actions
+- **Tools & Platforms:** Git, Docker, AWS, Postman , GitHub Actions
 
 ## Projects
 
